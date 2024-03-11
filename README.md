@@ -1,4 +1,3 @@
-# ASRM555_hw2_mingxi3
 
 This tool identifies data types for each column in a dataset and performs comprehensive exploratory data analysis, presenting statistics and visualizations.
 
